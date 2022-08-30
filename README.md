@@ -8,4 +8,3 @@ Also I am working on building my own webshop from scratch. My company is is call
 wwww.Loahy.nl
 
 
-[Loahy_logo_DEF_dark.pdf](https://github.com/guilhermodaguiar/guilhermodaguiar.github.io/files/9456094/Loahy_logo_DEF_dark.pdf)
