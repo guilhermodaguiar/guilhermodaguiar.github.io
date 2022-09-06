@@ -12,7 +12,7 @@ Hi there.. thanks for reading my README.md
 - In 2020 I have choosen to start an own company LoahyTree which sells creative and sustainable child products. The meaning Loahy in 
 
 ## NOVI HOGESCHOOL
-![the NOVI-hogeschool logo!]()
+![the NOVI-hogeschool logo!](images/Logo_Novi_2.png)
 
 In order to get a certificate for Junior Fullstack Developer from NOVI hogeschool in Utrecht, Netherlands, I need to create my own application. I choose to create a webshop named Loahy.nl , beacause in the future I want to get this webshop up and running for LoahyTree. Here are the languages, libraries, frameworks, GUI's that I am using:
 
