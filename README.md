@@ -2,7 +2,7 @@
 
 ## My GitHub pages 
 
-! [Me!](images/me.jpg \"profile pic")
+! [Me!](images/me2.jpg \"profile pic")
 > Hi there.. thanks for reading my README.md
 > This page contains the markup language Markdown 
 > I want to edit the whole page in Markdown..Wish me Luck!!
