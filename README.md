@@ -13,11 +13,11 @@
 ### About me
 
 - First of all a Father, Husband and a creative soul that enjoys Music and Art. I was born in Apoera. A small native town in Suriname. I moved to Aruba at  age of 4 and at 22 I moved to the Netherlands where I started my life with my family. I live in Utrecht, which is the fourth biggest city in the Netherlands after Amsterdam, Rotterdam and Den Haag (The Hague). I like the city life, especialy through all seasons especially autumn, which is beautiful when the leaves start falling. But somethimes it is good to get out of the city to enjoy a hike and get to my zen moment.
-- My Love for Coffee has been at a high. I am a sucker for a good cappuccino in a good small coffee place.
-- I enjoy to take my time in cooking although recently i have not been much in the kitchen.
+- My Love for Coffee has been at a high. I am a sucker for a good cappuccino in a small coffee tent.
+- I enjoy taking my time to cook although recently i have not been much in the kitchen.
 - Investing time in stocks. Learning about companies and enjoying the learning pattern.
 - A junior developer learning the ins and outs about developing. I wil be investing more time in updating my GitHub profile for future projects. For now I am working on building my own webshop from scratch. 
-- In 2020 I have choosen to start an own company LoahyTree which sells creative and sustainable child products. The meaning Loahy in my 
+- In 2020 I have choosen to start an own company LoahyTree which sells creative and sustainable child items. The word Loahy in my native language (which i don't speak) means heart and determination. A Tree can be seen as a child. It begins as a seed, as a baby. With good nurture it will grow in a great plant/tree/person. Tree also can be seen as sustainability. 
 
 ## NOVI HOGESCHOOL
 ![the NOVI-hogeschool logo!](images/Logo_Novi_2.png)
