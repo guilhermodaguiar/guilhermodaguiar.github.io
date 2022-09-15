@@ -2,7 +2,7 @@
 
 ## My GitHub pages 
 
-![Me!](images/me%kopie%Klein.png)
+![Me!](images/me2_klein.png)
 > Hi there.. thanks for reading my README.md
 > This page contains the markup language Markdown 
 > I want to edit the whole page in Markdown..Wish me Luck!!
@@ -20,7 +20,10 @@
 - In 2020 I have choosen to start an own company [LoahyTree](https://www.instagram.com/loahytree/) which sells creative and sustainable child items. The word Loahy in my native language (which i don't speak) means heart and determination. A Tree can be seen as a child. It begins as a seed, as a baby. With good nurture it will grow in a great plant/tree/person. Tree also can be seen as sustainability. 
 
 ## NOVI HOGESCHOOL
-![the NOVI-hogeschool logo!](images/Logo_Novi_2.png)
+
+|                                                      |                                  |                                             |
+|------------------------------------------------------|----------------------------------|---------------------------------------------|
+| ![the NOVI-hogeschool logo!](images/Logo_Novi_2.png) | ![React](images/react_Klein.png) | ![Springboot](images/spring_boot_Klein.png) |
 
 In order to get a certificate for ***Junior Fullstack Developer*** from [NOVI hogeschool](https://www.novi.nl) in Utrecht, Netherlands, I need to create my own application. I choose to create a webshop named Loahy.nl , beacause in the future I want to get this webshop up and running for LoahyTree. Here are the languages, libraries, frameworks, GUI's that I am using:
 
