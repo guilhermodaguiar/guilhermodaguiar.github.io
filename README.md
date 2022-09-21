@@ -40,8 +40,12 @@ In order to get a certificate for ***Junior Fullstack Developer*** from [NOVI ho
   - Maven
   - PostgreSQL
 
+## Influence Aruba
 
+![Influence_Aruba!](images/Influence_Aruba_logo_Normaal.png)
 
+> work in progress. 
+> Excited to add that I will be building a website for Influence. A company from Aruba that is dedicated in the Entertainment Industry in Aruba!!
   
 
 
