@@ -10,9 +10,9 @@
 > I am the start of my Journey as a Junior Full Stack Developer and I have learnt a lot.
 
 
-### About me
+## About me
 
-- First of all a Father, Husband and a creative soul that enjoys Music and Art. I was born in Apoera. A small native town in Suriname 🇸🇷. I moved to Aruba 🇦🇼 at  age of 4 and at 22 I moved to the Netherlands 🇳🇱 where I started my life with my family. I live in Utrecht, which is the fourth biggest city in the Netherlands after Amsterdam, Rotterdam and Den Haag (The Hague). I like the city life, especialy through all seasons especially autumn :fallen_leaf: , which is beautiful when the leaves start falling. But somethimes it is good to get out of the city to enjoy a hike and get to my zen moment.
+- First of all a Father, Husband and a creative soul that enjoys Music and Art. I was born in Apoera. A small native town in Suriname 🇸🇷. I moved to Aruba 🇦🇼 at  age of 4 and at 22 I moved to the Netherlands 🇳🇱 where I started my life with my family. I live in Utrecht, which is the fourth biggest city :city_sunset: in the Netherlands after Amsterdam, Rotterdam and Den Haag (The Hague). I like the city life, especialy through all seasons especially autumn :fallen_leaf: , which is beautiful when the leaves start falling. But somethimes it is good to get out of the city to enjoy a hike and get to my zen moment.
 - :coffee: My Love for Coffee has been at a high. I am a sucker for a good cappuccino in a small coffee tent. If You are ever in Utrecht check out [Koffie en Ik](https://koffieenik.nl)
 - :curry: I enjoy taking my time to cook although recently i have not been much in the kitchen.
 - :chart_with_upwards_trend: Investing time in stocks. Learning about companies and enjoying the learning pattern.
@@ -42,10 +42,15 @@ In order to get a certificate for ***Junior Fullstack Developer*** from [NOVI ho
 
 ## Influence Aruba
 
-![Influence_Aruba!](images/Influence_Aruba_logo_Klein.png)
+|                                                            |                                  |                                             |
+|------------------------------------------------------------|----------------------------------|---------------------------------------------|
+| ![Influence_Aruba!](images/Influence_Aruba_logo_small.png) | ![React](images/react_Klein.png) | ![Springboot](images/spring_boot_Klein.png) |
 
-> work in progress. 
-> Excited to add that I will be building a website for Influence. A company from Aruba that is dedicated in the Entertainment Industry in Aruba!!
+
+
+> New work in progress. 
+> :microphone: Excited to add that I will be building a website for **Influence**. 
+> A company located in Aruba 🇦🇼 that is dedicated in the Entertainment Industry.
   
 
 
