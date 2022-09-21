@@ -42,7 +42,7 @@ In order to get a certificate for ***Junior Fullstack Developer*** from [NOVI ho
 
 ## Influence Aruba
 
-![Influence_Aruba!](images/Influence_Aruba_logo_Normaal.png)
+![Influence_Aruba!](images/Influence_Aruba_logo_Klein.png)
 
 > work in progress. 
 > Excited to add that I will be building a website for Influence. A company from Aruba that is dedicated in the Entertainment Industry in Aruba!!
