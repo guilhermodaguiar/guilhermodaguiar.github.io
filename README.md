@@ -7,7 +7,8 @@
 > This page contains the markup language Markdown 
 > I want to edit the whole page in Markdown..Wish me Luck!!
 > This page is intended to post my journey and profile my github page
-> I am the start of my Journey as a Junior Full Stack Developer and I have learnt a lot.
+> I am the start of my Journey as a Junior Full Stack Developer and I have learnt a lot already.
+> Most of all I have more to learn and am excited about that. 
 
 
 ## About me
@@ -53,6 +54,21 @@ In order to get a certificate for ***Junior Fullstack Developer*** from [NOVI ho
 > A company located in Aruba 🇦🇼 that is dedicated in the Entertainment Industry.
   
 
+## Learnings
+
+> I am also learning with courses at [CodeCademy](https://www.codecademy.com/profiles/GuilyDaguiar). In my profile you can see what courses I am doing and my latest certificates.
+
+|                                                      |                                  |                                                 |
+|------------------------------------------------------|----------------------------------|-------------------------------------------------|
+| ![Codecademy!(images/codecademy_logo_Klein.png)] | ![PHP Logo!](images/PHP-logo_Klein.png) | ![MongoDB](images/MongoDB_Logo_Normaal.jpeg) |
+
+- PHP
+
+I am learning PHP to see why it is used for. I now understand the power of PHP. In CMS it is used often. The synthax is quicker to learn beacause of my JS and Java experience. Up to now I have not implemented the synthax in a big project and when I do that, I will create a repository. Also I am thinking about implementing PHP for developing webapllication.
+
+- MongoDB
+
+i am learning MongoDB also to have another way of implementing Databases. I intend to understand and to use both SQL and NoSQL, so when i gain more experience i can have the option to choose depending on the use case and the type of project.
 
 
 
