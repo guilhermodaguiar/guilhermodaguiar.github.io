@@ -58,9 +58,9 @@ In order to get a certificate for ***Junior Fullstack Developer*** from [NOVI ho
 
 > I am also learning with courses at [CodeCademy](https://www.codecademy.com/profiles/GuilyDaguiar). In my profile you can see what courses I am doing and my latest certificates.
 
-|                                                      |                                  |                                                 |
-|------------------------------------------------------|----------------------------------|-------------------------------------------------|
-| ![Codecademy!(images/codecademy_logo_Klein.png)] | ![PHP Logo!](images/PHP-logo_Klein.png) | ![MongoDB](images/MongoDB_Logo_Normaal.jpeg) |
+|                                                      |                                         |                                              |
+|------------------------------------------------------|-----------------------------------------|----------------------------------------------|
+| ![Codecademy!](images/codecademy_logo_Klein.png)     | ![PHP Logo!](images/PHP-logo_Klein.png) | ![MongoDB](images/MongoDB_Logo_Normaal.jpeg) |
 
 - PHP
 
