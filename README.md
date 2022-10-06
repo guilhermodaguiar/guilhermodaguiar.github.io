@@ -70,7 +70,7 @@ I am learning PHP to see why it is used for. I now understand the power of PHP. 
 
 i am learning MongoDB also to have another way of implementing Databases. I intend to understand and to use both SQL and NoSQL, so when i gain more experience i can have the option to choose depending on the use case and the type of project.
 
-##Loading...
+## Loading...
 
 ![Android_logo](images/android_logo.png)
 
