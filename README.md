@@ -72,5 +72,9 @@ i am learning MongoDB also to have another way of implementing Databases. I inte
 
 ## Loading...
 
-![Android_logo](images/android_logo.png)
+- New project
+
+At this moment i am learning the MERN stack. I want to create a admin dashboard and create an application for testing new idea's. furthermore i will be learning Docker to deploy applications. Wish me luck!!!
+
+
 
