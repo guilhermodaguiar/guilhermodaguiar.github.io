@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Guilhermo d'Aguiar 👋
 
-You can use the [editor on GitHub](https://github.com/guilhermodaguiar/guilhermodaguiar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Medior Backend Java Engineer | React Frontend Skills | DevOps Enthusiast
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Profile Picture](images/me2_Klein.png)
 
-### Markdown
+I am a **Medior Backend Java Engineer** with a strong foundation in building scalable systems. While my core expertise lies in Java and backend architecture, I also bring **Frontend React skills** to the table to build end-to-end applications.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lately, I've been expanding my horizons into the **DevOps** world, focusing on CI/CD, automation, and infrastructure.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 🛠 Tech Stack
 
-- Bulleted
-- List
+| Backend | Frontend | Database | DevOps |
+| :--- | :--- | :--- | :--- |
+| ![Java](images/spring_boot_Klein.png) **Java / Spring Boot** | ![React](images/react_Klein.png) **React** | ![MongoDB](images/MongoDB_Logo.svg.png) **MongoDB** | 🚀 **Docker, CI/CD, Cloud** |
 
-1. Numbered
-2. List
+*(Note: Moving on from PHP to focus on modern Java and JS ecosystems!)*
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## 🎨 Current Projects
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 👨‍👦 Felipe d'Aguiar Artist Page
+I am currently building a dedicated website for my son, **Felipe d'Aguiar**. It's designed to be a creative space to showcase his art.
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guilhermodaguiar/guilhermodaguiar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 📬 Connect with me
 
-### Support or Contact
+- [GitHub](https://github.com/guilhermodaguiar)
+- [LinkedIn](https://www.linkedin.com/in/guilhermo-d-aguiar-57922718/)
+- [Email](mailto:guilhermo.d.aguiar@gmail.com)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+> "Evolving from Junior to Medior, one commit at a time."
