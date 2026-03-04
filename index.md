@@ -30,9 +30,10 @@ I am currently building a dedicated website for my son, **Felipe d'Aguiar**. It'
 ## 📬 Connect with me
 
 - [GitHub](https://github.com/guilhermodaguiar)
-- [LinkedIn](https://www.linkedin.com/in/guilhermo-d-aguiar-57922718/)
-- [Email](mailto:guilhermo.d.aguiar@gmail.com)
+- [LinkedIn](www.linkedin.com/in/guilhermodaguiar)
+- [Email](mailto:dguilhermo@gmail.com)
+- [Credly](https://www.credly.com/users/guilhermo-d-aguiar)
 
 ---
 
-> "Evolving from Junior to Medior, one commit at a time."
+> "Always eager to learn, implement and have fun"
