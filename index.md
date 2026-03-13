@@ -22,8 +22,13 @@ Lately, I've been expanding my horizons into the **DevOps** world, focusing on C
 
 ## 🎨 Current Projects
 
-### 👨‍👦 Felipe d'Aguiar Artist Page
-I am currently building a dedicated website for my son, **Felipe d'Aguiar**. It's designed to be a creative space to showcase his art.
+### 👨‍🚀 Explore Loahy Spaceship!
+Take a journey through the stars with the Loahy Spaceship experience. Watch our featured video below and immerse yourself in the adventure:
+
+<video controls>
+  <source src="https://raw.githubusercontent.com/guilhermodaguiar/Frontend-Project-Loahy-V3/main/src/assets/spaceship_loahy.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
