@@ -35,7 +35,7 @@ Take a journey through the stars with the Loahy Spaceship experience. Watch our 
 ## 📬 Connect with me
 
 - [GitHub](https://github.com/guilhermodaguiar)
-- [LinkedIn](www.linkedin.com/in/guilhermodaguiar)
+- [LinkedIn](https://www.linkedin.com/in/guilhermodaguiar)
 - [Email](mailto:dguilhermo@gmail.com)
 - [Credly](https://www.credly.com/users/guilhermo-d-aguiar)
 
